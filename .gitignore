@@ -1,0 +1,8 @@
+.git
+.buildpath
+.project
+.idea
+vendor
+appToupweb_sys_db.pdf
+appToupweb_sys_db_model.mwb
+appToupweb_sys_db_script.sql
